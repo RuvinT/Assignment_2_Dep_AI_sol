@@ -1,7 +1,0 @@
-name: Python CI
-
-on:
-  push:
-    branches:
-      - main
-
