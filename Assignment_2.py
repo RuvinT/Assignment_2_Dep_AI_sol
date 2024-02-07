@@ -8,3 +8,8 @@ Created on Fri Feb  2 12:44:23 2024
 
 print ("Hello world Deployment of AI Solutions 02 (M07 Group 2)")
 print ("sample branch update")
+
+# In test_example.py
+
+def test_addition():
+    assert 2 + 2 == 4
